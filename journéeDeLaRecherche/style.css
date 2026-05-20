@@ -1,0 +1,91 @@
+@import url("style.css");
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+}
+
+#presentation {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: var(--white);
+}
+
+#presentation-meta {
+    flex: 0 0 10vw;
+    width: 10vw;
+    min-width: 10vw;
+    max-width: 10vw;
+    height: 100vh;
+    box-sizing: border-box;
+    padding: 1.5rem 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.75rem;
+    background-color: #000;
+    border-right: 1px solid rgba(255, 255, 255, 0.15);
+    overflow: hidden;
+}
+
+#presentation-meta > div {
+    font-family: var(--title-font);
+    color: #fff;
+    line-height: 1.2;
+    word-break: break-word;
+}
+
+#artwork-name {
+    font-size: var(--fs-3);
+}
+
+#artist-name {
+    font-size: var(--fs-4);
+}
+
+#artwork-year,
+#artwork-type {
+    font-size: var(--fs-5);
+    opacity: 0.9;
+}
+
+#artwork-container {
+    flex: 1 1 90vw;
+    width: 90vw;
+    height: 100vh;
+    overflow: hidden;
+    background-color: var(--white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+#artwork-container canvas {
+    display: block;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.presentation-error {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    color: var(--grey);
+    font-family: var(--title-font);
+    font-size: var(--fs-4);
+    opacity: 0.8;
+    text-align: center;
+    padding: 2rem;
+    box-sizing: border-box;
+}
