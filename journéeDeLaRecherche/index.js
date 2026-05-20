@@ -7,7 +7,6 @@ const artworkContainer = document.getElementById("artwork-container");
 const artworkNameEl = document.getElementById("artwork-name");
 const artistNameEl = document.getElementById("artist-name");
 const artworkYearEl = document.getElementById("artwork-year");
-const artworkTypeEl = document.getElementById("artwork-type");
 
 const RUST_WASM_RUNTIME = "rust-wasm";
 
@@ -194,7 +193,6 @@ function updateMetadata(artwork) {
     artworkNameEl.textContent = artwork.name || "";
     artistNameEl.textContent = artwork.artist || "";
     artworkYearEl.textContent = artwork.year || "";
-    artworkTypeEl.textContent = artwork.type || "";
 }
 
 async function runRustWasmArtwork(artwork) {
@@ -394,7 +392,7 @@ function previousArtwork() {
 
 async function initPresentation() {
     try {
-        const response = await fetch("../art/artworks.json");
+        const response = await fetch("../journéeDeLaRecherche/artworks.json");
         const artworks = await response.json();
 
         if (!artworks.length) {

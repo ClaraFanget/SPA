@@ -37,7 +37,7 @@ body {
 }
 
 #presentation-meta > div {
-    font-family: var(--title-font);
+    font-family: Roboto, "Helvetica Neue", sans-serif;
     color: #fff;
     line-height: 1.2;
     word-break: break-word;

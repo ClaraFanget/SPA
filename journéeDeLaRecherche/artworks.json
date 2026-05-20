@@ -1,0 +1,447 @@
+[
+  {
+    "name": "White Circles",
+    "ref": "white-circles",
+    "artist": "Benoit Baudry",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/bbaudry/swart-studio/tree/main/rust-fragments/white-circles",
+    "src": "../art/rust/white-circles/pkg/white_circles.js",
+    "codeSrc": "../art/rust/white-circles/src/lib.rs",
+    "runtime": "rust-wasm",
+    "module": "../art/rust/white-circles/pkg/white_circles.js",
+    "wasm": "../art/rust/white-circles/pkg/white_circles_bg.wasm",
+    "exportName": "render"
+  },
+  {
+    "name": "Rust Template",
+    "ref": "rust_template",
+    "artist": "Alireza Nasirianfar",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/alireza-nasirian",
+    "src": "../art/rust/template/pkg/rust_art_template.js",
+    "codeSrc": "../art/rust/template/src/lib.rs",
+    "runtime": "rust-wasm",
+    "module": "../art/rust/template/pkg/rust_art_template.js",
+    "wasm": "../art/rust/template/pkg/rust_art_template_bg.wasm",
+    "exportName": "render"
+  },
+  {
+    "name": "Blue Lines",
+    "ref": "blue-lines",
+    "artist": "Benoit Baudry",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/bbaudry/swart-studio/tree/main/rust-fragments/blue-lines",
+    "src": "../art/rust/blue-lines/pkg/blue_lines.js",
+    "codeSrc": "../art/rust/blue-lines/src/lib.rs",
+    "runtime": "rust-wasm",
+    "module": "../art/rust/blue-lines/pkg/blue_lines.js",
+    "wasm": "../art/rust/blue-lines/pkg/blue_lines_bg.wasm",
+    "exportName": "render"
+  },
+  {
+    "name": "Statue Jean Brillant",
+    "ref": "sara",
+    "artist": "Sara Castiblanco",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/SaraCamCas/AgorithmicArtCourse/tree/main/Oeuvre%20UDEM/HW1",
+    "src": "../art/js/2026/genuary/sara.js"
+  },
+  {
+    "name": "Ceramic Mural",
+    "ref": "jean-christophe",
+    "artist": "Jean-Christophe",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/Seyrawyn/Art-algorithmique-et-logiciel-libre/tree/main/Art1",
+    "src": "../art/js/2026/genuary/jean_christophe.js"
+  },
+  {
+    "name": "Order and Chaos",
+    "ref": "order-and-chaos",
+    "artist": "Tanguy Sergeant",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/Natugy/ArtAlgo/tree/main/first-art",
+    "src": "../art/js/2026/genuary/order_and_chaos.js"
+  },
+  {
+    "name": "Mariana",
+    "ref": "mariana",
+    "artist": "Mariana",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/MarianaFrancoO22/IFT-6256-Art-algorithmique/tree/main/1st_Assigment",
+    "src": "../art/js/2026/genuary/mariana.js"
+  },
+  {
+    "name": "Pond of Reflections",
+    "ref": "pond-of-reflections",
+    "artist": "Salma",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/salmanassri/algorithmic-art/tree/main/Project1",
+    "src": "../art/js/2026/genuary/pond_of_reflections.js"
+  },
+  {
+    "name": "Imad",
+    "ref": "imad",
+    "artist": "Imad Benahmed",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/ImadBen03/IFT6256-Artworks/tree/main/Art1_UDEM_Inspo",
+    "src": "../art/js/2026/genuary/imad.js"
+  },
+  {
+    "name": "Twisted",
+    "ref": "twisted",
+    "artist": "Jessey Thach",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/jesseythach/IFT6256-Art-Udem",
+    "src": "../art/js/2026/genuary/twisted.js"
+  },
+  {
+    "name": "Flowing Landscape",
+    "ref": "flowing-landscape",
+    "artist": "Michaël Gugliandolo",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/Mika24boss/IFT6256-Assignment1",
+    "src": "../art/js/2026/genuary/flowing_landscape.js"
+  },
+  {
+    "name": "Jiaqi",
+    "ref": "jiaqi",
+    "artist": "Jiaqi Wu",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/KolvacS-W/algorithmic_art_udemart",
+    "src": "../art/js/2026/genuary/jiaqi.js"
+  },
+  {
+    "name": "Blue Artwork",
+    "ref": "blue-artwork",
+    "artist": "Anthony Nguyen",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/anthonyng041/Blue-Artwork",
+    "src": "../art/js/2026/genuary/blue_artwork.js"
+  },
+  {
+    "name": "Roxana",
+    "ref": "roxana",
+    "artist": "Roxana Pena Mendieta",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/Selleen/algorithmic-art-course-Winter2026/tree/main/project_1",
+    "src": "../art/js/2026/genuary/roxana.js"
+  },
+  {
+    "name": "Iangola",
+    "ref": "iangola",
+    "artist": "Iangola",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/IangolaAndri/AlgorithmicArtCourse/tree/main/A1",
+    "src": "../art/js/2026/genuary/iangola.js"
+  },
+  {
+    "name": "Tile Art",
+    "ref": "tile-art",
+    "artist": "Félix Cormier",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/0fil0/TileArt",
+    "src": "../art/js/2026/genuary/tile_art.js"
+  },
+  {
+    "name": "Jingyue",
+    "ref": "jingyue",
+    "artist": "Jingyue Zhang",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/JingYue2000/IFT6256-Artwork",
+    "src": "../art/js/2026/genuary/jingyue.js"
+  },
+  {
+    "name": "Nicolas",
+    "ref": "nicolas",
+    "artist": "Nicolas Demers-Neuwirth",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/NicDN/IFT6256/tree/main/udem-campus-art",
+    "src": "../art/js/2026/genuary/nicolas.js"
+  },
+  {
+    "name": "Drouj",
+    "ref": "drouj",
+    "artist": "Madjda",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/Madjda32-del/AlgoritmicArt/tree/main/drouj",
+    "src": "../art/js/2026/genuary/drouj.js"
+  },
+  {
+    "name": "Munyeong",
+    "ref": "munyeong",
+    "artist": "Munyeong Kim",
+    "year": "2026",
+    "type": "Genuary",
+    "repo": "https://github.com/MunyeongKim/26H-ift6256-algorithmic_art-Munyeong-Kim/tree/main/HW1",
+    "src": "../art/js/2026/genuary/munyeong.js"
+  },
+  {
+    "name": "Arrow 2",
+    "ref": "arrow2",
+    "artist": "Gabriel Beaudoin",
+    "year": "2025",
+    "type": "Genuary",
+    "repo": "https://github.com/GabrielBeaudoinUdem/ift6251/tree/main/oeuvre_1",
+    "src": "../art/js/2025/genuary/arrow2.js"
+  },
+  {
+    "name": "Hex Grid",
+    "ref": "hex_grid",
+    "artist": "Luchino Allix-Lastrego",
+    "year": "2025",
+    "type": "Genuary",
+    "repo": "https://github.com/LuchinoAllix/Projets_p5/tree/main/hex_grid",
+    "src": "../art/js/2025/genuary/hex_grid.js"
+  },
+  {
+    "name": "Ink Mountains",
+    "ref": "ink_mountains",
+    "artist": "Hugo Mouton",
+    "year": "2025",
+    "type": "Genuary",
+    "repo": "https://github.com/UnMoutonPerdu/generative-art/tree/main/ink-mountains",
+    "src": "../art/js/2025/genuary/ink_mountains.js"
+  },
+  {
+    "name": "Lines",
+    "ref": "lines",
+    "artist": "Taha Skiredj",
+    "year": "2025",
+    "type": "Genuary",
+    "repo": "https://github.com/sorensorel/algo-art/tree/main/lines-genuary",
+    "src": "../art/js/2025/genuary/lines.js"
+  },
+  {
+    "name": "Singularity",
+    "ref": "singularity",
+    "artist": "Jean Barreto",
+    "year": "2025",
+    "type": "Genuary",
+    "repo": "https://github.com/JeanBrrt/ArtAlgo/tree/main/Singularity",
+    "src": "../art/js/2025/genuary/singularity.js"
+  },
+  {
+    "name": "Fireworks",
+    "ref": "fireworks",
+    "artist": "Houda Fatih",
+    "year": "2025",
+    "type": "Genuary",
+    "repo": "https://github.com/houda1999/Fire_Work_Project",
+    "src": "../art/js/2025/genuary/fireworks/fireworks.js"
+  },
+  {
+    "name": "Turing",
+    "ref": "turing",
+    "artist": "Gabriel Beaudoin",
+    "year": "2025",
+    "type": "Algorithm Based",
+    "repo": "https://github.com/GabrielBeaudoinUdem/ift6251/tree/main/oeuvre_2",
+    "src": "../art/js/2025/algo/turing/turing.js"
+  },
+  {
+    "name": "Hex Life",
+    "ref": "hex_life",
+    "artist": "Luchino Allix-Lastrego",
+    "year": "2025",
+    "type": "Algorithm Based",
+    "repo": "https://github.com/LuchinoAllix/Projets_p5/tree/main/hex_life",
+    "src": "../art/js/2025/algo/hex_life.js"
+  },
+  {
+    "name": "Cornfield Flow",
+    "ref": "cornfield_flow",
+    "artist": "Nadia González Fernández",
+    "year": "2025",
+    "type": "Algorithm Based",
+    "repo": "https://github.com/nala7/cornfield_flow",
+    "src": "../art/js/2025/algo/cornfield_flow.js"
+  },
+  {
+    "name": "Game Of Life",
+    "ref": "game-of-life",
+    "artist": "Paul Godbert",
+    "year": "2025",
+    "type": "Algorithm Based",
+    "repo": "https://github.com/Neokoldstudio/p5-Game-Of-Life",
+    "src": "../art/js/2025/algo/game-of-life/game-of-life.js"
+  },
+  {
+    "name": "Trees",
+    "ref": "trees",
+    "artist": "Hugo Mouton",
+    "year": "2025",
+    "type": "Algorithm Based",
+    "repo": "https://github.com/UnMoutonPerdu/generative-art/tree/main/trees",
+    "src": "../art/js/2025/algo/trees.js"
+  },
+  {
+    "name": "Meteo",
+    "ref": "meteo",
+    "artist": "Luchino Allix-Lastrego",
+    "year": "2025",
+    "type": "Data Based",
+    "repo": "https://github.com/LuchinoAllix/Projets_p5/tree/main/météo²",
+    "data": "https://open-meteo.com",
+    "src": "../art/js/2025/data/meteo.js"
+  },
+  {
+    "name": "Theo",
+    "ref": "theo",
+    "artist": "Yogya Tulip Gamage",
+    "year": "2025",
+    "type": "Data Based",
+    "repo": "https://github.com/yogyagamage/algorithmic-art/tree/main/theo",
+    "data": "https://github.com/chains-project/theo",
+    "src": "../art/js/2025/data/theo/theo.js"
+  },
+  {
+    "name": "Flow Field With Letters",
+    "ref": "4_flow_field_with_letters",
+    "artist": "Nadia González Fernández",
+    "year": "2025",
+    "type": "Data Based",
+    "repo": "https://github.com/nala7/Data-representation-with-Flow-Fields",
+    "data": "https://github.com/nala7/besu_teku_ssc",
+    "src": "../art/js/2025/data/flow_field_with_letters/4_flow_field_with_letters.js"
+  },
+  {
+    "name": "Flow Lake",
+    "ref": "flow_lake",
+    "artist": "Paul Godbert",
+    "year": "2025",
+    "type": "Data Based",
+    "repo": "https://github.com/Neokoldstudio/p5-waves",
+    "data": "https://api.tidesandcurrents.noaa.gov/api/prod/datagetter",
+    "src": "../art/js/2025/data/flow_lake.js"
+  },
+  {
+    "name": "Synesthesia",
+    "ref": "synesthesia",
+    "artist": "Tiffany M",
+    "year": "2024",
+    "type": "Genuary",
+    "repo": "https://github.com/margelle/algorithmic-art-tasks/tree/main/task1",
+    "src": "../art/js/2024/genuary/synesthesia/synesthesia.js"
+  },
+  {
+    "name": "Bauhaus",
+    "ref": "bauhaus",
+    "artist": "Rafaela Pinter",
+    "year": "2024",
+    "type": "Genuary",
+    "repo": "https://github.com/rafpinter/algorithmic-art/tree/main/02-bauhaus",
+    "src": "../art/js/2024/genuary/bauhaus.js"
+  },
+  {
+    "name": "Vermeer",
+    "ref": "vermeer",
+    "artist": "Lena MK",
+    "year": "2024",
+    "type": "Genuary",
+    "repo": "https://github.com/lenaMK/art-algorithmique/tree/main/vermeer",
+    "src": "../art/js/2024/genuary/vermeer.js"
+  },
+  {
+    "name": "Hexagonal",
+    "ref": "hexagonal",
+    "artist": "Bricemichelb",
+    "year": "2024",
+    "type": "Genuary",
+    "repo": "https://github.com/bricemichelb/hexagonal",
+    "src": "../art/js/2024/genuary/hexagonal.js"
+  },
+  {
+    "name": "Lsystem",
+    "ref": "lsystem",
+    "artist": "Tiffany M",
+    "year": "2024",
+    "type": "Algorithm Based",
+    "repo": "https://github.com/margelle/algorithmic-art-tasks/tree/main/task2",
+    "src": "../art/js/2024/algo/lsystem.js"
+  },
+  {
+    "name": "Bézier",
+    "ref": "bezier",
+    "artist": "Rafaela Pinter",
+    "year": "2024",
+    "type": "Algorithm Based",
+    "repo": "https://github.com/rafpinter/algorithmic-art/tree/main/04-bezier",
+    "src": "../art/js/2024/algo/bezier.js"
+  },
+  {
+    "name": "Tiling",
+    "ref": "tiling",
+    "artist": "Lena MK",
+    "year": "2024",
+    "type": "Algorithm Based",
+    "repo": "https://github.com/lenaMK/art-algorithmique/tree/main/tiling",
+    "src": "../art/js/2024/algo/tiling.js"
+  },
+  {
+    "name": "Artbreeder",
+    "ref": "artbreeder",
+    "artist": "Karla",
+    "year": "2024",
+    "type": "Algorithm Based",
+    "repo": "https://github.com/siliconfeather/algo-art/tree/d03aa4fc97c9e5ad16589988f8cfc29b4b4014ef/02%20-%20gen-algo_artbreeder",
+    "src": "../art/js/2024/algo/artbreeder.js"
+  },
+  {
+    "name": "Hilbert Curve",
+    "ref": "hilbert_curve",
+    "artist": "Bricemichelb",
+    "year": "2024",
+    "type": "Algorithm Based",
+    "repo": "https://github.com/bricemichelb/hilbertCurve",
+    "src": "../art/js/2024/algo/hilbert_curve/hilbert_curve.js"
+  },
+  {
+    "name": "Figures Historiques",
+    "ref": "figures_historiques",
+    "artist": "Lena MK",
+    "year": "2024",
+    "type": "Data Based",
+    "repo": "https://github.com/lenaMK/art-algorithmique/tree/main/figures-historiques",
+    "data": "https://observablehq.com/collection/@maison-mona/gender-analysis",
+    "src": "../art/js/2024/data/figures_historiques/figures_historiques.js"
+  },
+  {
+    "name": "Papers",
+    "ref": "papers",
+    "artist": "Bricemichelb",
+    "year": "2024",
+    "type": "Data Based",
+    "repo": "https://github.com/bricemichelb/data_art",
+    "data": "https://github.com/bricemichelb/data_art/blob/main/assets/papers.json",
+    "src": "../art/js/2024/data/papers/papers.js"
+  },
+  {
+    "name": "Heart Rates",
+    "ref": "heart_rates",
+    "artist": "Yvan Brunel",
+    "year": "2024",
+    "type": "Data Based",
+    "repo": "https://github.com/YBTopaz8/DataDrivenArt",
+    "data": "https://github.com/YBTopaz8/DataDrivenArt/tree/main/AllHearRates",
+    "src": "../art/js/2024/data/heart_rates/heart_rates.js"
+  }
+]
